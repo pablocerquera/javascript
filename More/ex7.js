@@ -1,0 +1,3 @@
+/*Exception handling is the ability to catch an error or a small bug and not have it derail your entire program. You can catch and log the 
+issue or output something else rather than terminating your code. 
+*/
